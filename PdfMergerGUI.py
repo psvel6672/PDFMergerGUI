@@ -37,11 +37,11 @@ class AISroller:
         self.PDFMWind.title("PDF Merger")
 
         # bgColor = '#2176c7'
-        winBgColor = '#000'
+        winBgColor = '#fff'
         self.PDFMWind.configure(bg=winBgColor)
-        bgColor = 'yellow'#'#4B0082'
-        labFgColor = '#fff'
-        fgColor = '#000'
+        bgColor = '#ff0688'#'#4B0082'
+        labFgColor = '#ff0688'
+        fgColor = '#fff'
         repFgColor = '#fff'
 
         self.pdflabel = Label(self.PDFMWind, text = "PDF Merger", font=('Times New Roman',13, "bold"), cursor='fleur', height=2, bg=bgColor, fg=fgColor, padx=180)
