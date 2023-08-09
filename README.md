@@ -16,5 +16,7 @@ Step 1 :: Select Button used for select pdf files.
 
 step 2 :: Click start to merge action
 
-# Note
+# Aditional Notes
 Up and Down Buttons used for change order of the files.
+
+Minimize Button used for minimize the window.
