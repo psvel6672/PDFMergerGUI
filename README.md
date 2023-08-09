@@ -19,4 +19,8 @@ step 2 :: Click start to merge action
 # Aditional Notes
 Up and Down Buttons used for change order of the files.
 
-Minimize Button used for minimize the window.
+Use PDF Merger Label Frame to drag the window.
+
+Use Minimize Button used for minimize the window.
+
+Use Exit Button to close the window.
