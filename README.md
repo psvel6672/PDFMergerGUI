@@ -11,7 +11,7 @@ Reach me :: psthamizhan02@gmail.com
 
 Merges two or more PDF files into a single file with this tool.
 
-! [GUI Preview][GUI Preview.png]
+<img width="252" alt="GUI Preview" src="https://github.com/psvel6672/PDFMergerGUI/assets/140797046/8999bd68-5283-4d08-a14c-671e9da6bd39">
 
 # Steps to FOLLOW
 Step 1 :: Select Button used for select pdf files.
