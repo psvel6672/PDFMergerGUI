@@ -11,6 +11,8 @@ Reach me :: psthamizhan02@gmail.com
 
 Merges two or more PDF files into a single file with this tool.
 
+! [GUI Preview][GUI Preview.png]
+
 # Steps to FOLLOW
 Step 1 :: Select Button used for select pdf files.
 
